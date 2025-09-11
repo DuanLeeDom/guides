@@ -21,7 +21,7 @@ Se o seu computador já está formatado, siga estas etapas para deixar o Windows
    
 3. Digite este comando e pressione Enter:
    ```bash
-   irm https://massgrave.dev/get | iex
+   irm https://get.activated.win | iex
    ```
    
 4. Siga as instruções na tela:
