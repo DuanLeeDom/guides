@@ -86,6 +86,21 @@ O "GodMode" é um atalho que reúne várias configurações avançadas do Window
 
 ---
 
+## Atalho: Ver todos os Aplicativos no Windows
+
+O comando **`shell:AppsFolder`** é um atalho do sistema que abre a pasta **Aplicações** do Windows. Diferente das pastas comuns, ela funciona como um diretório centralizado que reúne, em um único local, todos os softwares instalados no computador — incluindo tanto programas tradicionais (Win32) quanto aplicativos modernos da Microsoft Store.
+
+Sua principal utilidade é facilitar a **gestão de atalhos**, permitindo encontrar programas que não aparecem no Menu Iniciar e criar ícones na área de trabalho para apps que, de outra forma, seriam difíceis de localizar.
+
+1. Pressione Win + R no seu teclado.
+2. Digite ou cole o comando abaixo:
+```
+shell:appsfolder
+```
+3. Pressione Enter.
+
+---
+
 # PROGRAMAS ESSENCIAIS
 
 ## Programas Obrigatórios para Arquivos
